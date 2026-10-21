@@ -1,8 +1,8 @@
 ### Hi, I'm Diksha 👋
 
-MCA graduate (2026) interested in **data analytics** and **QA automation**. I work with Python, SQL and Power BI, and I'm learning Playwright for browser test automation. I have also built and deployed live projects with FastAPI, including a production chatbot used by 300+ students.
+MCA graduate (2026) interested in **software development**, **backend development**, **data analytics** and **QA automation**. I work with Python, SQL and FastAPI, use Power BI for data work, and I'm learning Playwright for browser test automation. I have built and deployed live projects, including a production chatbot used by 300+ students.
 
-Open to: **Data Analyst**, **QA Automation**, **Associate Software Developer**, and **Associate AI Forward Deployed Engineer** roles.
+Open to: **Associate Software Developer**, **Backend Developer**, **Data Analyst**, **QA Automation**, and **Associate AI Forward Deployed Engineer** roles.
 
 - 📊 Portfolio: **[diksha-portfolio-website-omega.vercel.app](https://diksha-portfolio-website-omega.vercel.app/)**
 - 📫 Email: **phartyaldiksha05@gmail.com** · [LinkedIn](https://www.linkedin.com/in/diksha-phartyal-818357354/)
@@ -40,7 +40,7 @@ Open to: **Data Analyst**, **QA Automation**, **Associate Software Developer**, 
 ### 🛠️ Tools and skills
 
 **Data:** Python · SQL · Pandas · NumPy · Power BI · Scikit-learn
-**Backend:** FastAPI · Flask · REST APIs · PostgreSQL · MySQL · MongoDB
+**Backend:** FastAPI · REST APIs · PostgreSQL · MySQL · MongoDB
 **Tools:** Git · GitHub · Docker · Vercel · Render · Hugging Face Spaces
 
 ---
